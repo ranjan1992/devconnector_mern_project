@@ -10,6 +10,7 @@ const User = require("../../models/User");
 // @route POST api/users
 // @desc  Test route
 // @access  Public
+
 router.post(
   "/",
   [
